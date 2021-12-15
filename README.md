@@ -1,2 +1,2 @@
-# GP1-Test-
+# GP1
 StoresHub
